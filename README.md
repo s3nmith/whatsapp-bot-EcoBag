@@ -6,9 +6,9 @@ At 🌿ecobags LK🌿, we create tote bags from ♻️ re-used materials, crafte
 
 Here are some images showing the sample conversation flow:
 
-![Test Image 1](testimg/first.png)
-![Test Image 2](testimg/second.png)
-![Test Image 3](testimg/third.png)
+<img src="testimg/first.png" width="300">
+<img src="testimg/second.png" width="300">
+<img src="testimg/third.png" width="300">
 
 ## Features
 
