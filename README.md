@@ -19,8 +19,8 @@ Here are some images showing the sample conversation flow:
 
 ## Setup and Usage
 
-(Include instructions for setting up and using the bot here.)
+setting up stuff
 
 ## License
 
-(Include any licensing information here.)
+...
